@@ -1,6 +1,6 @@
 # NMBU EDUROAM WINDOWS 10
 
-For å få NMBU eduroam på egen personlig stasjonær over ethernet må man konfigurere autentikasjonsmetode, de har gått bort fra sertifikater (som gjør livet my enklere) så her er oppskriften:
+For å få NMBU eduroam på egen personlig stasjonær over ethernet må man konfigurere autentikasjonsmetode, de har gått bort fra sertifikater (som gjør livet my enklere da man tidligere måtte holde serifikatet oppdatert) så her er oppskriften:
 
 1. Gå til services og finn wired autoconfig
 
